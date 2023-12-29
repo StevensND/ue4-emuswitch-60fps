@@ -8,15 +8,19 @@ I have decided to separate it from my [main mods repository](https://github.com/
 >[!CAUTION]
 These mods only work on the EU/US version of the games.
 
-# Other games that are not here
+## Other games that are not here
 
 - [Master Detective Archives: RAIN CODE](https://gamebanana.com/mods/465600)
 
-# Games that doesn't work with this method
+## Games I need to fix
+
+- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Speed Up
+
+## Games that doesn't work with this method
 
 - Octopath Traveler II
 - Life is Strange: True Colors
 
-# Thanks to
+## Thanks to
 
 - [Masagrator](https://github.com/masagrator) and his [FPSLocker-Warehouse list](https://github.com/masagrator/FPSLocker-Warehouse) 
