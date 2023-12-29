@@ -1,2 +1,22 @@
-# ue4-switch-60fps
- 60fps mods for UE4 games that are lock to 30fps even if you disable Vsync
+# ue4-emuswitch-60fps
+
+60fps mods for UE4 (Unreal Engine 4) games that are **lock to 30fps even if you disable Vsync** (Control U on Yuzu, F1 on Ryujinx) tested by myself.
+
+>[!NOTE]
+I have decided to separate it from my [main mods repository](https://github.com/StevensND/switch-port-mods) for better identification.
+
+>[!CAUTION]
+These mods only work on the EU/US version of the games.
+
+# Other games that are not here
+
+- [Master Detective Archives: RAIN CODE](https://gamebanana.com/mods/465600)
+
+# Games that doesn't work with this method
+
+- Octopath Traveler II
+- Life is Strange: True Colors
+
+# Thanks to
+
+- [Masagrator](https://github.com/masagrator) and his [FPSLocker-Warehouse list](https://github.com/masagrator/FPSLocker-Warehouse) 
