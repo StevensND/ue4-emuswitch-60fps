@@ -1,5 +1,7 @@
 # ENGLISH
 
+Alternative Link: [GameBanana](https://gamebanana.com/mods/487220)
+
 These mods works only on v1.0.0 (Base Game/No Update) and on v1.0.4
 
 Please, don't delete any .pchtxt files inside the 60fps/exefs folder.
@@ -17,6 +19,8 @@ https://github.com/StevensND/switch-port-mod
 
 
 # ESPAÑOL/SPANISH
+
+Link alternativo: [GameBanana](https://gamebanana.com/mods/487220)
 
 Estos mods funcionan únicamente en la actualización 1.0.0 (Juego Base/Sin actualización) y en la actualización 1.0.4
 
