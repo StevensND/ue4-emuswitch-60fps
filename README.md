@@ -16,9 +16,8 @@ These mods only work on the EU/US version of the games.
 
 - Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Speed Up
 
-## Games that doesn't work with this method
+## Games that I tested and doesn't work with this method
 
-- Octopath Traveler II
 - Life is Strange: True Colors
 
 ## Thanks to
