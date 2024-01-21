@@ -18,8 +18,9 @@ These mods only work on the EU/US version of the games.
 
 ## Games that I tested and doesn't work with this method
 
-- Life is Strange: True Colors
+- 
 
 ## Thanks to
 
-- [Masagrator](https://github.com/masagrator) and his [FPSLocker-Warehouse list](https://github.com/masagrator/FPSLocker-Warehouse) 
+- [Masagrator](https://github.com/masagrator) and his [FPSLocker-Warehouse list](https://github.com/masagrator/FPSLocker-Warehouse)
+- [Hazerou and ChanseyisTheBest](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/tree/main) 
