@@ -7,4 +7,5 @@ Versions supported:
 Special thanks to:
 
 -[Masagrator](https://github.com/masagrator/)
+
 -[Hazerou & ChanseyIsTheBest](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md)
