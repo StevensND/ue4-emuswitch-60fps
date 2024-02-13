@@ -12,9 +12,11 @@ These mods only work on the EU/US version of the games.
 
 - [Master Detective Archives: RAIN CODE](https://gamebanana.com/mods/465600)
 
+- [Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles](https://gamebanana.com/mods/494571)
+
 ## Games I need to fix
 
-- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Speed Up
+-
 
 ## Games that I tested and doesn't work with this method
 
