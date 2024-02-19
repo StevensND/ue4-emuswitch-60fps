@@ -2,7 +2,8 @@
 
 Versions supported:
 
-- 1.5.4 **ONLY** | **BuildID: 95B2E97C5D16385A**
+- **1.5.4** | **BuildID: 95B2E97C5D16385A**
+- **1.5.5** | **BuildID: 1C95A999050892E0**
 
 Special thanks to:
 
