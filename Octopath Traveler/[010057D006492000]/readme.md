@@ -7,3 +7,4 @@ Versions supported:
 
 - 1.0.0
 - 1.0.4
+- 1.0.5
