@@ -14,6 +14,8 @@ These mods only work on the EU/US version of the games.
 
 - [Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles](https://github.com/StevensND/switch-port-mods/tree/main/Demon%20Slayer%20Kimetsu%20no%20Yaiba%20The%20Hinokami%20Chronicles/%5B0100309016E7A000%5D) | [Alternative Link](https://gamebanana.com/mods/494571)
 
+- [Demon Slayer -Kimetsu no Yaiba- Sweep the Board!](https://github.com/StevensND/switch-port-mods/tree/main/Demon%20Slayer%20Kimetsu%20no%20Yaiba%20Sweep%20the%20Board/%5B0100A7101B806000%5D)
+
 - [Princess Peach Showtime!](https://github.com/StevensND/switch-port-mods/tree/main/Princess%20Peach%20Showtime!/%5B01007A3009184000%5D) | [Alternative Link](https://gamebanana.com/mods/cats/28179?)
 
 ## Games I need to fix
