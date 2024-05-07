@@ -4,9 +4,17 @@ Versions supported:
 
 - **1.50** | **BuildID: 20503FA77FA416B7**
 
+## NOTE
+
+**If you're going to use the Uncap FPS mod**: Please use the version of the **mod that was designed for your emulator**.
+
+Don't use both or the version that doesn't correspond to your emulator.
+
+I mean: if you're playing on Ryujinx, use the Ryujinx version. If you're playing on Yuzu use the Yuzu version but **don't use both versions at the same time.**
+
 Special thanks to:
 
-- [Fl4sh_](https://github.com/Fl4sh9174) for the help making cutscenes 60fps or higher.
+- [Fl4sh_](https://github.com/Fl4sh9174) for the help making cutscenes 60fps or higher + speed up fix.
 
 ## Instructions
 
