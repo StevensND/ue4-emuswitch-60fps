@@ -1,5 +1,5 @@
 >[!NOTE]
-You can watch a comparison [HERE](https://imgsli.com/MjcxOTQ3)
+You can see a comparison [HERE](https://imgsli.com/MjcxOTQ3)
 
 Thanks to Fl4sh_ for the help merging this mod.
 
