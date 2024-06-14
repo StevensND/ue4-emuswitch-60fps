@@ -13,7 +13,16 @@ It includes a new story. Not to be confused with the previous one released on 12
 
 ## Versions supported
 
-- **1.0.0 ONLY** | **BuildID: 0EDF3C4A511458A6**
+- **1.0.0 | BuildID: 0EDF3C4A511458A6**
+- **1.0.1 | BuildID: 541F680F325BD5AC**
+
+## Alternative Links
+
+- [Gamebanana](https://gamebanana.com/members/submissions/mods/2745830?)
+
+## Gameplays
+
+[Emulator Gameplay](https://youtu.be/n_f5zhpCbis?si=hZzJ_xhfCkIaA7VY)
 
 ## How to install the mods (for Emulators)
 
