@@ -38,11 +38,15 @@ Then **Click on the .zip file name**. Finally **click on View Raw** to start the
 
 Your path should be something like this: `60fps\exefs\1.0.2.pchtxt`
 
-**Switch users**: You can convert  the .pchtxt file to .ips using [IPSwitch](https://github.com/3096/ipswitch) or just use [FPSLocker](https://github.com/masagrator/FPSLocker)
+**Switch users**: You can convert  the .pchtxt file to .ips using [IPSwitch](https://github.com/3096/ipswitch)
 
 Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown Up Gaming on how to convert .pchtxt to .ips
 
-Here is a [video guide](https://youtu.be/0X5g6HF7LB4?si=n-UtFAEAj2VtjEQQ) + [written guide](https://rentry.co/NSwitch60FPSLockerGuide) about FPSLocker
+>[!NOTE]
+
+If you are playing on Switch don't try resolutions above 1080p. 
+
+You will need more power and the Nintendo Switch is not powerful enough to support those resolutions.
 
 **Credits**: 
 
