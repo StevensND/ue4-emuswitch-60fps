@@ -43,7 +43,6 @@ Your path should be something like this: `60fps\exefs\1.0.2.pchtxt`
 Here is a [tutorial](https://youtu.be/m-V6Rs2sm9w?si=-b10u6yv0dhih5Kk) by Grown Up Gaming on how to convert .pchtxt to .ips
 
 >[!NOTE]
-
 If you are playing on Switch don't try resolutions above 1080p. 
 
 You will need more power and the Nintendo Switch is not powerful enough to support those resolutions.
