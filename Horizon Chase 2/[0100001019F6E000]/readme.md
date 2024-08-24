@@ -5,7 +5,8 @@ Versions supported:
 - **1.6.6** | **BuildID: D60A7F43A98034BE**
 - **1.5.5** | **BuildID: 1C95A999050892E0**
 - **1.5.4** | **BuildID: 95B2E97C5D16385A**
-Special thanks to:
+
+## Special thanks to
 
 - [Masagrator](https://github.com/masagrator/)
 
