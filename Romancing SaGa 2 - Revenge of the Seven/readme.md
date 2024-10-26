@@ -8,7 +8,7 @@
 
 - **60FPS**
 - **Uncap FPS**
-- **Resolution Mods**: 1920x1080, 2560x1440, 2880x1620, 3200x1080. Thanks [Fl4sh](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) for the help.
+- **Resolution Mods**: 1920x1080, 2560x1440, 2880x1620, 3200x1800. Thanks [Fl4sh](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) for the help.
 
 > [!NOTE]
 I didn't make a 3840x2160 (4K) mod due to the game textures become blurry and weird (like if you were playing on N64)
