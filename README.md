@@ -18,6 +18,8 @@ These mods only work on the EU/US version of the games.
 
 - [Princess Peach Showtime!](https://github.com/StevensND/switch-port-mods/tree/main/Princess%20Peach%20Showtime!/%5B01007A3009184000%5D) | [Alternative Link](https://gamebanana.com/mods/cats/28179?)
 
+- [Mario & Luigi: Brothership](https://github.com/StevensND/switch-port-mods/tree/main/Mario%20%26%20Luigi%20Brothership/%5B01006D0017F7A000%5D)
+
 ## Games using UE5
 
 - SWORD ART ONLINE Fractured Daydream
