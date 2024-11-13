@@ -10,7 +10,7 @@
 
 - **60FPS**
 - **Uncap FPS**
-- **Disable DOF** [COMPARISON HERE](https://imgsli.com/MzE4MDU5)
+- **Disable DOF**. [COMPARISON HERE](https://imgsli.com/MzE4MDU5)
 - **Disable AA**. Character should look more cleaner. [COMPARISON HERE](https://imgsli.com/MzE4MDUz)
 
 > [!NOTE]
@@ -18,7 +18,7 @@ I'll try to do the resolution mods later (maybe this weekend). Right now I didn'
 
 ## Versions supported
 
-- ** 1.0.0 + 1.0.1 | BuildID: 6F49452BD0B343B1** (Both updates share the BuildID)
+- **1.0.0 + 1.0.1** | BuildID: 6F49452BD0B343B1** (Both updates share the BuildID)
 
 ## How to install the mods (for Emulators)
 
