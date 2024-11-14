@@ -10,11 +10,13 @@
 
 - **60FPS**
 - **Uncap FPS**
-- **Disable DOF**. [COMPARISON HERE](https://imgsli.com/MzE4MDU5)
-- **Disable AA**. Character should look more cleaner. [COMPARISON HERE](https://imgsli.com/MzE4MDUz)
+- **Resolution**: 1280x720, 1920x1080, 2560x1440, 3840x2160
 
 > [!NOTE]
-I'll try to do the resolution mods later (maybe this weekend). Right now I didn't have enough time to do all the tests that I wanted to do.
+The Default resolution on **Docked** is weird. **It's 1440x812** once you load a save game.
+
+- **Disable DOF**. [COMPARISON HERE](https://imgsli.com/MzE4MDU5)
+- **Disable AA**. Character sprite should look more clean. [COMPARISON HERE](https://imgsli.com/MzE4MzM5)
 
 ## Versions supported
 
