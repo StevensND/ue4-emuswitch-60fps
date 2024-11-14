@@ -15,6 +15,8 @@
 > [!NOTE]
 The Default resolution on **Docked** is weird. **It's 1440x812** once you load a save game.
 
+Using these mods you will keep the resolution before loading your save and after loading your save.
+
 - **Disable DOF**. [COMPARISON HERE](https://imgsli.com/MzE4MDU5)
 - **Disable AA**. Character sprite should look more clean. [COMPARISON HERE](https://imgsli.com/MzE4MzM5)
 
