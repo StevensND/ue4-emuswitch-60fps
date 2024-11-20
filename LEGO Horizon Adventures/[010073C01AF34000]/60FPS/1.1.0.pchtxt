@@ -1,0 +1,19 @@
+@nsobid-2D99FA4793E426C3D7CF64BAC54DEE68
+
+# LEGO® Horizon Adventures™ [010073C01AF34000] v1.1.0 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+075F6088 1F2003D5
+0246D74C A9AA8A52
+0246D74C A930A872
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
