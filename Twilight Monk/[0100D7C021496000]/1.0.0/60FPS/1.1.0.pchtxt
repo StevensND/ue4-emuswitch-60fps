@@ -1,0 +1,19 @@
+@nsobid-5D63D46226DB106F97E3C1D495264B5A
+
+# Twilight Monk [0100D7C021496000] v1.0.0 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+043B9DD2 1F2003D5
+04253358 1F2003D5
+04160973 1F2003D5
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
