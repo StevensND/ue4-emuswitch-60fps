@@ -1,0 +1,19 @@
+@nsobid-10844A7A20C5597E8E5C26B9463DB0C1
+
+# Disney Epic Mickey: Rebrushed [0100DA201EBF8000] v1.0.4 - 3840x2160
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 3840x2160
+
+@enabled
+03176854 08008052
+03176858 0800A872
+0317685C 0001271E  
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
