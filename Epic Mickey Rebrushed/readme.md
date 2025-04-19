@@ -14,6 +14,7 @@
 - **1.0.1 | BuildID: 1E6C0B2FD8A9356E**
 - **1.0.2 | BuildID: 21F90AA03BED43F0**
 - **1.0.3 | BuildID: EE2CAB96FB6BEDA9**
+- **1.0.4 | BuildID: 10844A7A20C5597E**
 
 ## How to install the mods (for Emulators)
 
