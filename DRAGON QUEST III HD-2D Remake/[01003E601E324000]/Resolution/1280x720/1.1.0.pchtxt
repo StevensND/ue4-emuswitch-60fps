@@ -1,0 +1,21 @@
+@nsobid-4F41309B39EEBE5E1B8F2729B8105C35
+
+# DRAGON QUEST III HD-2D Remake [01003E601E324000] v1.1.0 - 1280x720
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1280x720
+
+@enabled
+046D4020 1F2003D5
+046C5AC8 1F2003D5
+02F94724 68559552
+02F94728 48E5A772
+02F9472C 0001271E 
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
