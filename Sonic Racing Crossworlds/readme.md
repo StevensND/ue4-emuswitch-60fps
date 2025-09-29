@@ -17,7 +17,7 @@ If you're a Switch user (real hardware, not emulation) and want stable FPS you n
 
 ## OC Info (Only for Switch Users. REAL HARDWARE. NOT EMULATION)
 
-I suggest you to take a look at [this guide]
+I suggest you to take a look at [this guide](https://rentry.co/howtoget60fps)
 
 I tested the mod using:
 
@@ -42,7 +42,7 @@ Also tested the following but IMO this need a little bit increase
 
 ## Versions supported
 
-- **1.12 ONLY**| BuildID: CF82524FEAE270B6C3C8A4C92F757D3D 
+- **1.12 ONLY** | BuildID: CF82524FEAE270B6C3C8A4C92F757D3D 
 
 > [!NOTE]
 SEGA changed some functions between Base Game (1.00) and 1.12. That's why 1.00 is not supported and won't be supported. 
