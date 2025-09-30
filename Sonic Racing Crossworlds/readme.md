@@ -19,7 +19,10 @@ If you're a Switch user (real hardware, not emulation) and want stable FPS you n
 
 I suggest you to take a look at [this guide](https://rentry.co/howtoget60fps)
 
-I tested the mod using:
+> [!NOTE]
+According to this guide the OC that I'm using it's safe. So don't worry.
+
+I'm a Switch OLED user (Mariko). I tested the mod using:
 
 **Docked Mode**
 
