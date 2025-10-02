@@ -8,6 +8,10 @@
 
 **Gameplay Video Testing FPS Mod**: [CLICK HERE](https://youtu.be/KfECWOi6GG0?si=YrlYFp_J8GXPKO1w)
 
+## Alternative Download Link
+
+[CLICK HERE](https://gamebanana.com/mods/623949) to go to the alternative download link
+
 ## Mods Available
 
 - **60FPS**
