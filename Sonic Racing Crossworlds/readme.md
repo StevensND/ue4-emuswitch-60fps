@@ -19,7 +19,7 @@
 > [!WARNING]
 **THIS MOD IS STATIC**. This means that you'll get slowdowns if you aren't getting Stable FPS.
 
-If you can't get Stable FPS, then apply OC. Otherwise just wait for a Dynamic FPS version (this one is work in progress yet).
+Otherwise just wait for a Dynamic FPS version (this one is work in progress yet).
 
 > [!NOTE]
 If you're a Switch user (real hardware, not emulation) and want stable FPS you need to apply OC (Overclocking) to your Switch
