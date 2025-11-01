@@ -1,0 +1,17 @@
+@nsobid-94B4FA4F36E01BE387D3BFCF358C5B9E
+
+# DRAGON QUEST I & II HD-2D Remake [0100D7C01F254000] v1.0.1 - Disable AA
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable AA
+
+@enabled
+034077AC E8031F2A
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

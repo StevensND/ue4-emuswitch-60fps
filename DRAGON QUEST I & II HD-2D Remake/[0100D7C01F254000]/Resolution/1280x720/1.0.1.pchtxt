@@ -1,0 +1,21 @@
+@nsobid-94B4FA4F36E01BE387D3BFCF358C5B9E
+
+# DRAGON QUEST I & II HD-2D Remake [0100D7C01F254000] v1.0.1 - 1280x720
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 1280x720
+
+@enabled
+04A1B72A 1F2003D5
+04A87E42 1F2003D5
+0315E0A4 A8999952
+0315E0B8 88E9A772
+0315E0BC 0001271E 
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
