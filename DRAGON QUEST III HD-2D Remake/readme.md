@@ -26,6 +26,7 @@ Using these mods you will keep the resolution before loading your save and after
 
 - **1.0.0 + 1.0.1** | BuildID: 6F49452BD0B343B1 (Both updates share the BuildID)
 - **1.1.0** | BuildID: 4F41309B39EEBE5E
+- **1.1.2** | BuildID: A6BD61CFB142E663
 
 ## How to install the mods (for Emulators)
 
