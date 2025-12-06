@@ -12,6 +12,10 @@ It's the first game I've played and tested where this has happened.. You will no
 
 Also thanks to [Fl4sh](https://github.com/Fl4sh9174) for the help modding this game. 
 
+## Gameplay VIDEO
+
+[CLICK HERE](https://youtu.be/PLHTGAUO4M4?si=vqzjdl446TLCeS09) to watch the gameplay video
+
 ## Mods Available
 
 - **60FPS**
