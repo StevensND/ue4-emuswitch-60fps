@@ -1,0 +1,17 @@
+@nsobid-AB06020960EDD8285B7FF5FAD2E3224B
+
+# DRAGON QUEST VII Reimagined [0100A9D01C446000] v1.1.0 - Disable Anti Aliasing
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable Anti Aliasing
+
+@enabled
+013442A0 E8031F2A
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
