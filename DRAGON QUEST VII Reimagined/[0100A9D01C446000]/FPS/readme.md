@@ -1,33 +1,6 @@
-## Game Info
+- **60FPS**: Play at 60 FPS target rate.
 
-**Title: DRAGON QUEST VII Reimagined**
-
-**TitleID: 0100A9D01C446000**
-
-> [!NOTE]
-This is the US/EU Version not the HK Version. 
-
-**MODS MIGHT NOT WORK ON HK VERSION**
-
-**Motor Engine**: Unreal Engine 4.27.2
-
-## Mods Available
-
-- **60FPS**
-- **Uncap FPS**
-- **Resolution**: 2560x1440, 3840x2160
-
-> [!NOTE]
-The Default resolution on **Docked** is 1920x1080. Handheld is 1280x720
-
-- **Disable DOF**
-
-> [!NOTE]
-DOF means Depth of Field. I leave this note due to some random YouTubers don't remember this.
-
-## Versions supported
-
-- **1.1.0 ONLY** | BuildID: AB06020960EDD828
+- **Uncap FPS**: Play above 60FPS target rate.
 
 ## How to install the mods (for Emulators)
 

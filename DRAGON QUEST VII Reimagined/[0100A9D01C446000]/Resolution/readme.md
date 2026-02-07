@@ -1,33 +1,9 @@
-## Game Info
-
-**Title: DRAGON QUEST VII Reimagined**
-
-**TitleID: 0100A9D01C446000**
-
 > [!NOTE]
-This is the US/EU Version not the HK Version. 
+Remember to set the Emulator Scale to 1x
 
-**MODS MIGHT NOT WORK ON HK VERSION**
+Otherwise, you'll be increasing the native resolution.
 
-**Motor Engine**: Unreal Engine 4.27.2
-
-## Mods Available
-
-- **60FPS**
-- **Uncap FPS**
-- **Resolution**: 2560x1440, 3840x2160
-
-> [!NOTE]
-The Default resolution on **Docked** is 1920x1080. Handheld is 1280x720
-
-- **Disable DOF**
-
-> [!NOTE]
-DOF means Depth of Field. I leave this note due to some random YouTubers don't remember this.
-
-## Versions supported
-
-- **1.1.0 ONLY** | BuildID: AB06020960EDD828
+I mean: If you're using 2560x1440p at 2x Emu Scale it will be 5120x2880 etc etc **instead**.
 
 ## How to install the mods (for Emulators)
 
