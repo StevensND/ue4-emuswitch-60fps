@@ -5,6 +5,24 @@ Otherwise, you'll be increasing the native resolution.
 
 I mean: If you're using 2560x1440p at 2x Emu Scale it will be 5120x2880 etc etc **instead**.
 
+> [!WARNING]
+If you want to try 8K replace the value like this
+
+2K value (1.1.0 Version):
+```
+0461FB44 C852A852
+```
+
+8K Value (1.1.0 Version):
+
+```
+0461FB44 0839A852
+```
+
+Remember to change the DRAM (Memory Layout) setting in case you're facing issues.
+
+![image](https://i.gyazo.com/c1ee8c4f52eaa1c6fad1574d0ff9cbbc.png)
+
 ## How to install the mods (for Emulators)
 
 > [!NOTE]
