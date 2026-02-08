@@ -46,6 +46,27 @@ Then **Click on the .zip file name**. Finally **click on View Raw** to start the
 
 Your path should be something like this: `60FPS\exefs\1.0.1.pchtxt`
 
+## How to install NexusMods MODS
+
+You can download mods from [NexusMods HERE](https://www.nexusmods.com/games/dragonquest7reimagined/mods)
+
+If you want to install NexusMods mods like [this one](https://www.nexusmods.com/dragonquest7reimagined/mods/1) you've to Open the Mod Data Location/Mods Directory.
+
+Then create a new folder and named something like ... `Dynamic Camera` (in this case).
+
+Then you need to create the following folders:
+
+```
+1. romfs
+2. Inside romfs folder, create DOLL folder
+3. Inside DOLL folder, create Content folder.
+4. Inside Content folder, create Paks folder.
+```
+
+Finally paste the downloaded files there. It should look like this:
+
+![imagen](https://i.gyazo.com/9241485a42a1923dea6b0c21a68d80f4.png)
+
 ## Switch users
 
 You can convert  the .pchtxt file to .ips using [IPSwitch](https://github.com/3096/ipswitch) or just use [FPSLocker](https://github.com/masagrator/FPSLocker)
